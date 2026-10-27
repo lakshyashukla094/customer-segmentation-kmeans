@@ -70,7 +70,7 @@ customer-segmentation-kmeans/
 
 ## How to Run
 ```bash
-git clone <this-repository-url>
+git clone https://github.com/lakshyashukla094/customer-segmentation-kmeans.git
 cd customer-segmentation-kmeans
 
 python -m venv venv
